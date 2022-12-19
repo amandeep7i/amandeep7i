@@ -9,4 +9,5 @@ __MAIL__: adeepraghuvanshi@gmail.com<br>
 __LinkedIN__ profile: https://www.linkedin.com/in/aman-kumar-540047231/<br>
 __Instagram__: instagram.com/aman_deep_chaudhary<br>
 ![Profile views](https://gpvc.arturio.dev/amandeep7i) <br> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amandeep7i&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
